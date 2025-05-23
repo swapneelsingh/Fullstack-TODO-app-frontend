@@ -1,70 +1,57 @@
-# Getting Started with Create React App
+# 📋 कार्यKRAM(KaryaKRAM) – A To-Do List App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**कार्यKRAM** (KaryaKRAM) is a modern, to-do list application built using the **MERN stack** (MongoDB, Express.js, React.js, Node.js). Designed with a vibrant aesthetic and smooth UX, it offers a productive and visually pleasing way to manage daily tasks.
 
-## Available Scripts
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=vercel)](https://fullstack-todo-app-frontend-three.vercel.app/)
 
-In the project directory, you can run:
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/57f32433-716e-41f0-ad36-1bce0241330b" width="400"/><br/>
+      <img src="https://github.com/user-attachments/assets/0bfa393f-a813-4bbe-b466-07d7fced39a0" width="400"/>   
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/dcedbfc6-643b-47fb-a44f-0d44111d357b" width="220"/>
+    </td>
+  </tr>
+</table>
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## ✨ Key Features
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- 📝 Add, edit, and delete to-do items effortlessly
+- 🌈 Smooth animated gradient background for a dynamic UI
+- 📱 Fully responsive and mobile-friendly layout
+- 🔒 Data persistence using MongoDB
+- ⚡ Fast performance with lightweight React components
+- 🎨 Beautiful color palette with a clean UI
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 🚀 Tech Stack
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+**Frontend:**
+- React.js
+- HTML5 + CSS3
+- Google Fonts (`Baloo 2`, `Poppins`)
+- Responsive Design for mobile and desktop
 
-## Learn More
+**Backend:**
+- Node.js
+- Express.js
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+**Database:**
+- MongoDB (for storing tasks)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- ---
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
