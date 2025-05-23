@@ -2,6 +2,8 @@
 
 **कार्यKRAM** (KaryaKRAM) is a modern, to-do list application built using the **MERN stack** (MongoDB, Express.js, React.js, Node.js). Designed with a vibrant aesthetic and smooth UX, it offers a productive and visually pleasing way to manage daily tasks.
 
+> ⚠️ **Note:** Website may take a few seconds to load the data from MongoDB.
+
 [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=vercel)](https://fullstack-todo-app-frontend-three.vercel.app/)
 
 <table>
